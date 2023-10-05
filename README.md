@@ -10,11 +10,15 @@
 
 Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on
-![Leetcode Stats](https://leetcard.jacoblin.cool/ahmetmutlugun)
+
 -->
 ### Projects in development
 - Steam Pyp
 - Vapor
-- Prayer Menu
+- Task Menu
 - Imam
 - 2 Pixel
+
+[![An image of @ahmetmutlugun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmetmutlugun)](https://holopin.io/@ahmetmutlugun)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ahmetmutlugun?theme=forest&ext=activity)](https://leetcode.com/ahmetmutlugun)
+
