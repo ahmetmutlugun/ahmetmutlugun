@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on
 
 -->
+
 ### Projects in development
 - Steam Pyp
 - Vapor
@@ -19,6 +20,9 @@ Here are some ideas to get you started:
 - Imam
 - 2 Pixel
 
-[![An image of @ahmetmutlugun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmetmutlugun)](https://holopin.io/@ahmetmutlugun)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ahmetmutlugun?theme=forest&ext=activity)](https://leetcode.com/ahmetmutlugun)
-
+<a href='https://holopin.io/@ahmetmutlugun'>
+    <img src='https://holopin.me/ahmetmutlugun'/>
+</a>
+<a href='https://leetcode.com/ahmetmutlugun'>
+    <img src='https://leetcard.jacoblin.cool/ahmetmutlugun?theme=forest&ext=activity'/>
+</a>
