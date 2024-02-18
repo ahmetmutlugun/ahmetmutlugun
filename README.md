@@ -4,7 +4,7 @@
 - 🐍 I’m currently learning Swift 🕊️ and Rust 🦀
 - 📫 How to reach me: ahmet.mutlugun@gmail.com
 - 😄 Pronouns: he/him
-- 🔑 Fun fact: I collect keychains
+- 🔑 Fun fact: I collect keychains (Also my feet stink)
 <!--
 **ahmetmutlugun/ahmetmutlugun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
