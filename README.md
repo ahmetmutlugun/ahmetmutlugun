@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 -->
 
-### Projects in development
+### Projects
+- Creator & maintainer of [vmware-fusion-py](https://github.com/ahmetmutlugun/vmware-fusion-py), a Python adaptor for VMware CLI tools on MacOS
 - Steam Pyp
 - Vapor
 - Task Menu
