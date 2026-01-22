@@ -4,9 +4,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmet.mutlugun@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetmutlugun)
 
-## 👨‍💻 About Me
+## About Me
 
-Software Engineer with expertise in full-stack development, mobile applications, and distributed systems. Published researcher in quantum-resistant cryptography with experience building scalable applications using Java Spring Boot, Python, Swift, and cloud technologies. Creator of production-ready applications serving 500+ Discord servers.
+Software Engineer with experience in full-stack development, mobile applications, and distributed systems. Published researcher in quantum-resistant cryptography with experience building scalable applications using Java Spring Boot, Python, Swift, and cloud technologies.
 
 - 🔭 Currently working with Python and Swift for my projects
 - 🌱 Learning Go 🦫 and Rust 🦀
@@ -19,9 +19,6 @@ Software Engineer with expertise in full-stack development, mobile applications,
 ## 🚀 Featured Projects
 
 - **TeamSync** - Full-stack meeting platform with Express.js/React/PostgreSQL integrating Zoom, OpenAI, Trello and Jira APIs
-- **Blitzcode** - Educational platform built with Java Spring Boot/React/PostgreSQL/Firebase featuring OpenAI integration
-- **Discord Bots** - Python-based bots with Redis caching deployed to 500+ servers, handling hundreds of concurrent users
-- **Task Menu** - Native MacOS task manager built with Swift/C/SwiftUI featuring real-time system resource visualization
 - **[vmware-fusion-py](https://github.com/ahmetmutlugun/vmware-fusion-py)** - Python adapter for VMware CLI tools on MacOS. Avaialble through PyPI
 
 ## 📝 Publications
