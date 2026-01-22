@@ -16,17 +16,17 @@ Software Engineer with experience in full-stack development, mobile applications
 - 🔑 Fun fact: I collect keychains
 - ⚽ Hobbies: Photography, piano
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **TeamSync** - Full-stack meeting platform with Express.js/React/PostgreSQL integrating Zoom, OpenAI, Trello and Jira APIs
 - **[vmware-fusion-py](https://github.com/ahmetmutlugun/vmware-fusion-py)** - Python adapter for VMware CLI tools on MacOS. Avaialble through PyPI
 
-## 📝 Publications
+## Publications
 
 - ![**Performance Evaluation of Quantum-Resistant IKEv2 Protocol for Satellite Networking Environments** (Dec 2024)](https://ieeexplore.ieee.org/document/10914395)
   - IEEE Virtual Conference on Communications
   
-## 🔧 Technical Skills
+## Technical Skills
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
